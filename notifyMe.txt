@@ -1,1 +1,1 @@
-Notify someone that this file was created
+Notify that this file was created a while back
